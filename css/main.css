@@ -1,0 +1,9 @@
+.row{
+	background-color: purple;
+	padding: 4px;
+	margin: 6px;
+	border-bottom: 3px solid pink;
+}
+p{
+	color: white;
+}
